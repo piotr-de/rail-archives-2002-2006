@@ -1,0 +1,12 @@
+BODY {font: normal 8pt Tahoma; color: #00a0c0; text-decoration: none; background: #024a75;}
+B {font: bold;}
+.center {text-align: center;}
+.link {font: normal 8pt Tahoma; color: #ffff80; text-decoration: none;}
+A:link {font: normal 8pt Tahoma; color: #ffff80; text-decoration: none;}
+A:active {font: normal 8pt Tahoma; color: #ffff80; text-decoration: none;}
+A:visited {font: normal 8pt Tahoma; color: #ffff80; text-decoration: none;}
+A:hover {font: normal 8pt Tahoma; color: #ffff80; text-decoration: underline;}
+TABLE {height: auto; background: #00a0c0;}
+TD {font: normal 8pt Tahoma; text-decoration: none; padding: 2pt; text-align: left; vertical-align: top; background: #024a75;}
+TABLE.invisible {background-color: #024a75; width: 100%;}
+TD.tdinvisible {font: normal 8pt Tahoma; color: #00a0c0; text-decoration: none; padding: 0pt; text-align: center; vertical-align: top;}
